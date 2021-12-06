@@ -1,6 +1,4 @@
-# Özgür Yaman
-
-- 👋 Hi, I’m Özgür.
+- 👋 Hi, I’m Claffen.
 - 👀 I’m interested in web design 
 - 🌱 I’m currently learning css-javascript
 
