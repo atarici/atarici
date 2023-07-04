@@ -1,11 +1,11 @@
-- 👋 Hi, I’m Claffen.
-- 👀 I’m interested in web design 
-- 🌱 I’m currently learning css-javascript
+- 👋 Hi
+- 👀 I’m interesting in Web Design and Python
+- 🌱 I’m currently learning Python
 
 - 📫 How to reach me?
 
 ### Here;
-[My Instagram](https://www.instagram.com/ozguryamann9)
+[My Instagram](https://www.instagram.com/ozguryamann0)
 
 ### or 
 [My Mail](mailto:ozguryaman551@gmail.com) <br><br>
