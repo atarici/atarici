@@ -5,7 +5,7 @@
 - 📫 How to reach me?
 
 ### Here;
-[My Instagram](https://www.instagram.com/ozguryamann0)
+[My Instagram](https://www.instagram.com/ozguaman)
 
 ### or 
 [My Mail](mailto:ozguryaman551@gmail.com) <br><br>
