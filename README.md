@@ -1,6 +1,6 @@
 - 👋 Hi
-- 👀 I’m interesting in Web Design and Game Development
-- 🌱 I’m currently learning C#
+- 👀 I’m interesting in Java and Web Design
+- 🌱 I’m currently learning Java
 
 - 📫 How to reach me?
 
