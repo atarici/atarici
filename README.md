@@ -1,14 +1,23 @@
-- 👋 Hi
-- 👀 I’m interesting in Java and Web Design
-- 🌱 I’m currently learning Java
+<h1 align="center">Hi 👋, I'm Özgür</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-- 📫 How to reach me?
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ozguaman&label=Profile%20views&color=0e75b6&style=flat" alt="ozguaman" /> </p>
 
-### Here;
-[My Instagram](https://www.instagram.com/ozguaman)
+- 🌱 I’m currently learning **Javascript**
 
-### or 
-[My Mail](mailto:ozguryaman551@gmail.com) <br><br>
+- 📫 How to reach me **ozguryaman551@gmail.com**
 
-<img src="https://media0.giphy.com/media/QNFhOolVeCzPQ2Mx85/200w.webp?cid=ecf05e47qduczwe4bausmt83k7gu0els534k29n0k0qm9z18&rid=200w.webp&ct=g">
-<img src="https://media2.giphy.com/media/7J4P7cUur2DlErijp3/200w.webp?cid=ecf05e473kkkaaybd7po375ydesxt4ymn40g98upbng5hewk&rid=200w.webp&ct=g">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/özgür-yaman-240451323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="özgür-yaman-240451323" height="30" width="40" /></a>
+<a href="https://instagram.com/ozguaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ozguaman" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozguaman&show_icons=true&locale=en&layout=compact" alt="ozguaman" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ozguaman&show_icons=true&locale=en" alt="ozguaman" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozguaman&" alt="ozguaman" /></p>
