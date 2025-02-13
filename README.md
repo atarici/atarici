@@ -23,8 +23,8 @@
 
 </p>
 <br><br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozguaman&show_icons=true&locale=en&layout=compact" alt="ozguaman" /></p><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ozguaman&show_icons=true&locale=en" alt="ozguaman" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atarici&show_icons=true&locale=en&layout=compact" alt="atarici" /></p><br><br><br><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=atarici&show_icons=true&locale=en" alt="atarici" /></p>
 
 <br><br><br><br><br><br><br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ozguaman" alt="ozguaman" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atarici" alt="atarici" /></a> </p>
