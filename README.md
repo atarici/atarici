@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Özgür</h1>
 
 <br>
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning Javascript
 
 <br><br>
 <h3 align="left">Connect with me:</h3>
