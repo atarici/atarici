@@ -6,8 +6,8 @@
 <br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/özgür-yaman-240451323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="özgür-yaman-240451323" height="30" width="40" /></a>
-<a href="https://instagram.com/ozguaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ozguaman" height="30" width="40" /></a>
+  <a title="LinkedIn, Public domain, via Wikimedia Commons" href="https://linkedin.com/in/özgür-yaman-240451323" target="blank"><img width="64" alt="LinkedIn icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/64px-LinkedIn_icon.svg.png?20210220164014"></a>
+  <a title="Instagram, Public domain, via Wikimedia Commons" href="https://instagram.com/ozguaman"><img width="64" alt="Instagram logo 2016" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/64px-Instagram_logo_2016.svg.png?20210403190622"></a>
 </p>
 
 
